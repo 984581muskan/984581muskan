@@ -1,6 +1,6 @@
-# Hey, I'm [Your Name]! 🌷
+# Hey, I'm Tasmiya Muskan! 🌷
 
-* 🎓 [Your Degree, e.g., BCA Undergraduate]
+* 🎓 Bachelor's of computer application 
 * 💻 Aspiring Software Developer
 * @ [Your Interest or Affiliation, e.g., Exploring Artificial Intelligence and Web Development]
 
