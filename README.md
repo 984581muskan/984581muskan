@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./file_00000000d87082088291711cacff1cc6.png" alt="Tasmiya Muskan- Aspiring Software Developer" width="100%">
+</p>
+
 # Hey, I'm Tasmiya Muskan! 🌷
 
 * 🎓 Bachelor's of computer application 
